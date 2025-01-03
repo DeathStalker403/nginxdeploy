@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: deathstalker403/nginxapp:latest@sha256:69da2c2cec6936a3d4bb9faba51c890b6706e74102e363990fcd570285fce85c
+        image: deathstalker403/nginxapp:latest
         
         ports:
         - containerPort: 8080
