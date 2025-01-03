@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: my-docker-repo/my-web-app:latest
+        image: deathstalker403/nginxapp:latest
         ports:
         - containerPort: 80
